@@ -319,7 +319,7 @@ const Persons = ({ persons }) => {
 
 export default Persons
 ```
-
+/* This code doesnt not work when I try it. Whenever I click the close button the state of the person state doesnt not change to null. For some reason the effect hook firest again eventhough i put the second parameter in*/
 <!-- Koodi on kasvanut paljon, ja kaikki lisäykset eivät ole täysin ilmeisiä. -->
 The code has changed quite a lot, and all of the changes are not completely apparent. 
 
